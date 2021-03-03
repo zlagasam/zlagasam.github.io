@@ -25,6 +25,14 @@
 		<data_context></data_context>
 		<data_context></data_context>
 		<data_context></data_context>
-	</sub_industry>		
+	</sub_industry>
+</industry>
+<industry category="Здравоохранение">
+</industry>
+<industry category="Промышленность">
+</industry>
+<industry category="Наука и образование">
+</industry>
+<industry category="Экология">
 </industry>
 </industry_datamap>
