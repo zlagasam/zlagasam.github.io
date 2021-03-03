@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <industry_datamap>
-<industry category="ch">Строительство и сфера ЖКХ</industry>
-	<sub_industry category="rb">Жилищное строительство</sub_industry>
+<industry="Строительство и сфера ЖКХ">
+	<sub_industry="Жилищное строительство">
 		<data_context>Недострой и проблемные объекты</data_context>
 		<data_context></data_context>
 		<data_context></data_context>
