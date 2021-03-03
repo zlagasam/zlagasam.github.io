@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <industry_datamap>
-<industry category="stroika">
-	<sub_industry id="jilstroika">
+<industry code="stroika">
+	<sub_industry code="jilstroika">
 		<data_context>Недострой и проблемные объекты</data_context>
 		<data_context></data_context>
 		<data_context></data_context>
@@ -10,7 +10,7 @@
 		<data_context></data_context>
 		<data_context></data_context>
 	</sub_industry>
-	<sub_industry category="ЖКХ">
+	<sub_industry code="jkh">
 		<data_context></data_context>
 		<data_context></data_context>
 		<data_context></data_context>
@@ -18,7 +18,7 @@
 		<data_context></data_context>
 		<data_context></data_context>
 	</sub_industry>
-	<sub_industry category="Нежилищное строительство">
+	<sub_industry code="nonjilstroika">
 		<data_context></data_context>
 		<data_context></data_context>
 		<data_context></data_context>
@@ -27,12 +27,12 @@
 		<data_context></data_context>
 	</sub_industry>
 </industry>
-<industry category="Здравоохранение">
+<industry code="zdrav">
 </industry>
-<industry category="Промышленность">
+<industry category="prom">
 </industry>
-<industry category="Наука и образование">
+<industry category="obrnauka">
 </industry>
-<industry category="Экология">
+<industry category="ecology">
 </industry>
 </industry_datamap>
