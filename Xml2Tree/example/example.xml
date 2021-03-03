@@ -10,5 +10,21 @@
 		<data_context></data_context>
 		<data_context></data_context>
 	</sub_industry>
+	<sub_industry category="ЖКХ">
+		<data_context></data_context>
+		<data_context></data_context>
+		<data_context></data_context>
+		<data_context></data_context>
+		<data_context></data_context>
+		<data_context></data_context>
+	</sub_industry>
+	<sub_industry category="Нежилищное строительство">
+		<data_context></data_context>
+		<data_context></data_context>
+		<data_context></data_context>
+		<data_context></data_context>
+		<data_context></data_context>
+		<data_context></data_context>
+	</sub_industry>		
 </industry>
 </industry_datamap>
