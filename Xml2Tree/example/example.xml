@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <industry_datamap>
-<industry category="stroika">Строительство и ЖКХ</industry>
-	<sub_industry category="Жилищное строительство">
+<industry category="stroika">
+	<sub_industry id="jilstroika">
 		<data_context>Недострой и проблемные объекты</data_context>
 		<data_context></data_context>
 		<data_context></data_context>
