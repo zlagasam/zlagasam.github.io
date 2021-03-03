@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <industry_datamap>
-<industry category="Строительство, ЖКХ">
+<industry category>Строительство и ЖКХ</industry category>
 	<sub_industry category="Жилищное строительство">
 		<data_context>Недострой и проблемные объекты</data_context>
 		<data_context></data_context>
