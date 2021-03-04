@@ -2,7 +2,7 @@
 <industry_datamap>
 <industry code="stroika">
 <sub_industry code="zhil_stroika">
-	 <data_context="problem_objects">
+	 <data_context kind="problem_objects">
 	 <data_resource code="emiss">
 	 </data_resource>
 	 <data_resource code="rosstat">
@@ -10,7 +10,7 @@
 	 <data_resource code="eiszhs">	
 	 </data_resource>
 	 </data_context>
-	 <data_context="ipoteka">
+	 <data_context kind="ipoteka">
 	 <data_context>Ипотечное кредитование</data_context>
 	</data_context>
 </sub_industry>
@@ -33,10 +33,10 @@
 </industry>
 <industry code="zdrav">
 </industry>
-<industry category="prom">
+<industry code="prom">
 </industry>
-<industry category="obrnauka">
+<industry code="obrnauka">
 </industry>
-<industry category="ecology">
+<industry code="ecology">
 </industry>
 </industry_datamap>
