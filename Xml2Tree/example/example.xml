@@ -3,6 +3,7 @@
 <industry code="stroika">
 	<sub_industry code="jilstroika">
 		<data_context>Недострой и проблемные объекты</data_context>
+		<sub_industry code="problem_objects">
 		<data_context></data_context>
 		<data_context></data_context>
 		<data_context></data_context>
