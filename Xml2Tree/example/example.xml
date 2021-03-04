@@ -2,14 +2,11 @@
 <industry_datamap>
 <industry code="stroika">
 	<sub_industry code="jilstroika">
+	<industry_code>Жилищное строитетьство</industry_code>	
+		<data_context="problem_objects">
 		<data_context>Недострой и проблемные объекты</data_context>
-		<sub_industry code="problem_objects">
-		<data_context></data_context>
-		<data_context></data_context>
-		<data_context></data_context>
-		<data_context></data_context>
-		<data_context></data_context>
-		<data_context></data_context>
+		<data_context="ipoteka">
+		<data_context>Ипотечное кредитование</data_context>
 	</sub_industry>
 	<sub_industry code="jkh">
 		<data_context></data_context>
