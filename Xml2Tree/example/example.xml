@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <industry_datamap>
 <industry code="stroika">
-<sub_industry code="jilstroika">
+<sub_industry code="zhil_stroika">
 	 <data_context="problem_objects">
-	 <data_context>Недострой и проблемные объекты</data_context>
 	 <data_resource code="emiss">
+	 </data_resource>
+	 <data_resource code="rosstat">
+	 </data_resource>
+	 <data_resource code="eiszhs">	
 	 </data_resource>
 	 </data_context>
 	 <data_context="ipoteka">
 	 <data_context>Ипотечное кредитование</data_context>
 	</data_context>
 </sub_industry>
-<sub_industry code="jkh">
+<sub_industry code="zh_kh">
 		<data_context></data_context>
 		<data_context></data_context>
 		<data_context></data_context>
@@ -19,7 +22,7 @@
 		<data_context></data_context>
 		<data_context></data_context>
 </sub_industry>
-<sub_industry code="nonjilstroika">
+<sub_industry code="non_zhil_stroika">
 		<data_context></data_context>
 		<data_context></data_context>
 		<data_context></data_context>
