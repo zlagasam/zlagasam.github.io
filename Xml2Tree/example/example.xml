@@ -4,16 +4,16 @@
 <sub_industry code="zhil_stroika">
 	 <data_context kind="problem_objects">
 	 <data_resource code="eiszhs">
+	 <data_resource_about>
+	 <resource_name>Единая информационная система жилищного строительства</resource_name>
+	 <resource_url>https://наш.дом.рф</resource_url>
+	 <resource_info>Система, функционирующая на основе программных, технических средств и информационных технологий, обеспечивающих сбор, обработку, хранение, предоставление, размещение и использование информации о жилищном строительстве, а также иной информации, предусмотренной законодательством Российской Федерации.</resource_info>
+	</data_resource_about>
 		<dataset rdid="eiszhs_1">
 		<data_name>Единый реестр проблемных объектов</data_name>
 		<access_point>Сервисы ЕИСЖС</access_point>
 		<access_point_url>https://наш.дом.рф/сервисы/</access_point_url>
 		<data_url>https://наш.дом.рф/сервисы/каталог-новостроек/список-проблемных-объектов</access_point_url>
-		<data_resource_about code="eiszhs">
-		<resource_name>Единая информационная система жилищного строительства</resource_name>
-		<resource_url>https://наш.дом.рф</resource_url>
-		<resource_info>Система, функционирующая на основе программных, технических средств и информационных технологий, обеспечивающих сбор, обработку, хранение, предоставление, размещение и использование информации о жилищном строительстве, а также иной информации, предусмотренной законодательством Российской Федерации.</resource_info>
-		</data_resource_about>
 		</dataset>
 	 </data_resource>
 	 <data_resource code="rosstat">
