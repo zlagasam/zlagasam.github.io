@@ -9,19 +9,21 @@
 	 <resource_url>https://наш.дом.рф</resource_url>
 	 <resource_info>Система, функционирующая на основе программных, технических средств и информационных технологий, обеспечивающих сбор, обработку, хранение, предоставление, размещение и использование информации о жилищном строительстве, а также иной информации, предусмотренной законодательством Российской Федерации.</resource_info>
 	</data_resource_about>
+		<access_point code="eiszhs_service"> 
 		<dataset rdid="eiszhs_1">
 		<data_name>Единый реестр проблемных объектов</data_name>
 		<access_point>Сервисы ЕИСЖС</access_point>
 		<access_point_url>https://наш.дом.рф/сервисы/</access_point_url>
 		<data_url>https://наш.дом.рф/сервисы/каталог-новостроек/список-проблемных-объектов</data_url>>
 		</dataset>
+		</access_point>
 	 </data_resource>
 	 <data_resource code="rosstat">
 	 	<dataset rdid="rosstat_1">
 		<data_name>Единый реестр проблемных объектов</data_name>
 		<access_point>Сервисы ЕИСЖС</access_point>
 		<access_point_url>https://наш.дом.рф/сервисы/</access_point_url>
-		<data_url>https://наш.дом.рф/сервисы/каталог-новостроек/список-проблемных-объектов</access_point_url>
+		<data_url>https://наш.дом.рф/сервисы/каталог-новостроек/список-проблемных-объектов</data_url>
 		</dataset>
 	 </data_resource>
 	 <data_resource code="emiss">	
