@@ -2,7 +2,7 @@
 <industry_datamap>
 <industry code="stroika">
 <sub_industry code="zhil_stroika">
-	 <data_context kind="problem_objects">
+	<data_context kind="problem_objects">
 	 	<data_resource code="eiszhs">
 	 		<data_resource_about code="eiszhs">
 	 			<resource_name>Единая информационная система жилищного строительства</resource_name>
@@ -11,10 +11,10 @@
 			</data_resource_about>
 			<access_point code="eiszhs_service">
 				<dataset rdid="eiszhs_1">
-				<data_name>Единый реестр проблемных объектов</data_name>
-				<access_point>Сервисы ЕИСЖС</access_point>
-				<access_point_url>https://наш.дом.рф/сервисы/</access_point_url>
-				<data_url>https://наш.дом.рф/сервисы/каталог-новостроек/список-проблемных-объектов</data_url>>
+					<data_name>Единый реестр проблемных объектов</data_name>
+					<access_point>Сервисы ЕИСЖС</access_point>
+					<access_point_url>https://наш.дом.рф/сервисы/</access_point_url>
+					<data_url>https://наш.дом.рф/сервисы/каталог-новостроек/список-проблемных-объектов</data_url>>
 				</dataset>
 			</access_point>
 	 	</data_resource>
@@ -24,29 +24,42 @@
 	 			<resource_url>https://rosstat.gov.ru/</resource_url>
 	 			<resource_info>Федеральный орган исполнительной власти, осуществляющий функции по формированию официальной статистической информации о социальных, экономических, демографических, экологических и других общественных процессах в РФ, а также в порядке и случаях, установленных законодательством Российской Федерации, по контролю в сфере официального статистического учета.</resource_info>
 	 		</data_resource_about>
-	 	<access_point code="rosstat_stroika">
-	 		<dataset rdid="rosstat_1">
-				<data_name>Незавершенные строительством жилые дома в Российской Федерации</data_name>
+	 	 	<access_point code="rosstat_stroika">
+	 			<dataset rdid="rosstat_1">
+					<data_name>Незавершенные строительством жилые дома в Российской Федерации</data_name>
+					<access_point>Раздел официального сайта Росстата "Строительство"</access_point>
+					<access_point_url>https://rosstat.gov.ru/folder/14458</access_point_url>
+					<data_url>https://rosstat.gov.ru/storage/mediabank/stroi136.xls</data_url>
+				</dataset>
+				<dataset rdid="rosstat_2">
+					<data_name>Здания и сооружения, находящиеся в незавершенном строительстве в Российской Федерации</data_name>
 				<access_point>Раздел официального сайта Росстата "Строительство"</access_point>
 				<access_point_url>https://rosstat.gov.ru/folder/14458</access_point_url>
-				<data_url>https://rosstat.gov.ru/storage/mediabank/stroi136.xls</data_url>
-		</dataset>
-		<dataset rdid="rosstat_2">
-			<data_name>Здания и сооружения, находящиеся в незавершенном строительстве в Российской Федерации</data_name>
-			<access_point>Раздел официального сайта Росстата "Строительство"</access_point>
-			<access_point_url>https://rosstat.gov.ru/folder/14458</access_point_url>
-			<data_url>https://rosstat.gov.ru/storage/mediabank/stroi151.xls</data_url>
-			</dataset>
-	 </access_point>
-	 </data_resource>
-	 <data_resource code="emiss">	
-	 </data_resource>
-	 </data_context>
-	 <data_context kind="ipoteka">
-	 <data_context>Ипотечное кредитование</data_context>
+				<data_url>https://rosstat.gov.ru/storage/mediabank/stroi151.xls</data_url>
+				</dataset>
+	 		</access_point>
+		 </data_resource>
+	 	<data_resource code="emiss">
+	 	</data_resource>
+	 	</data_context>
+	<data_context kind="ipoteka">
+	</data_context>
+	<data_context kind="gov_programs">
+	</data_context>
+	<data_context kind="dynamic_zhil">
+	</data_context>
+	<data_context kind="passport_mkd">
 	</data_context>
 </sub_industry>
 <sub_industry code="zh_kh">
+	<data_context></data_context>
+	<data_context></data_context>
+	<data_context></data_context>
+	<data_context></data_context>
+	<data_context></data_context>
+	<data_context></data_context>
+</sub_industry>
+<sub_industry code="budget_stroika">
 		<data_context></data_context>
 		<data_context></data_context>
 		<data_context></data_context>
@@ -54,7 +67,7 @@
 		<data_context></data_context>
 		<data_context></data_context>
 </sub_industry>
-<sub_industry code="non_zhil_stroika">
+<sub_industry code="budget_stroika">
 		<data_context></data_context>
 		<data_context></data_context>
 		<data_context></data_context>
